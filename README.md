@@ -1,1 +1,1 @@
-# Open Creative Cloud Addon
+# Open Creative Cloud Addon Multiplatform
